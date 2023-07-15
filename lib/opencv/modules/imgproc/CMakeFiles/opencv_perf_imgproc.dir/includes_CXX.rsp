@@ -1,0 +1,1 @@
+-ID:/opencv/sources/modules/ts/include -ID:/opencv/sources/modules/imgproc/include -ID:/opencv/sources/modules/imgcodecs/include -ID:/opencv/sources/modules/core/include -ID:/opencv/sources/modules/videoio/include -ID:/opencv/sources/modules/highgui/include -isystem D:/opencv/build/x64/mingw

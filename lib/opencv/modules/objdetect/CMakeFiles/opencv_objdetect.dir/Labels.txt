@@ -1,0 +1,162 @@
+# Target labels
+ Main
+ opencv_objdetect
+ Module
+# Source files and their labels
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/face.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/include/opencv2/objdetect/objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/apriltag_quad_thresh.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/zmaxheap.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/aruco_board.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/aruco_detector.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/aruco_dictionary.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/aruco_utils.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/charuco_detector.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/cascadedetect.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/cascadedetect_convert.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/detection_based_tracker.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/face_detect.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/face_recognize.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/hog.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/main.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/qrcode.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/qrcode_encoder.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/opencl/cascadedetect.cl
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/opencl/objdetect_hog.cl
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/build/x64/mingw/modules/objdetect/opencl_kernels_objdetect.cpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/build/x64/mingw/modules/objdetect/opencl_kernels_objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/apriltag_quad_thresh.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/predefined_dictionaries_apriltag.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/unionfind.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/zarray.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/apriltag/zmaxheap.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/aruco_utils.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/aruco/predefined_dictionaries.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/cascadedetect.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/precomp.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/sources/modules/objdetect/src/qrcode_encoder_table.inl.hpp
+ Main
+ opencv_objdetect
+ Module
+D:/opencv/build/x64/mingw/cvconfig.h
+D:/opencv/build/x64/mingw/opencv2/opencv_modules.hpp
+D:/opencv/build/x64/mingw/modules/objdetect/vs_version.rc
+D:/opencv/build/x64/mingw/modules/objdetect/opencv_objdetect_main.cpp
+D:/opencv/build/x64/mingw/modules/objdetect/opencl_kernels_objdetect.cpp.rule

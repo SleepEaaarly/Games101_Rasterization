@@ -1,0 +1,1 @@
+-ID:/opencv/sources/modules/core/include -ID:/opencv/build/x64/mingw/modules/core -ID:/opencv/sources/3rdparty/zlib -ID:/opencv/build/x64/mingw/3rdparty/zlib -ID:/opencv/sources/3rdparty/include/opencl/1.2 -isystem D:/opencv/build/x64/mingw
